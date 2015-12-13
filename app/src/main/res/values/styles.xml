@@ -1,6 +1,17 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Holo"/>
+    <style name="AppTheme" parent="android:Theme.Material"/>
 
+    <style name="MainMenuButton">
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:textColor">#F4DFC8</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="PersonalInformationTextView">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textColor">#F4DFC8</item>
+        <item name="android:padding">4dp</item>
+    </style>
 </resources>
