@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="android:Theme.Material"/>
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar"/>
 
     <style name="MainMenuButton">
         <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>

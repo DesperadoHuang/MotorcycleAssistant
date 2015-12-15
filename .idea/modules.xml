@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MotorcycleAssistant.iml" filepath="$PROJECT_DIR$/MotorcycleAssistant.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navigationdrawerdemo/navigationdrawerdemo.iml" filepath="$PROJECT_DIR$/navigationdrawerdemo/navigationdrawerdemo.iml" />
     </modules>
   </component>
 </project>
